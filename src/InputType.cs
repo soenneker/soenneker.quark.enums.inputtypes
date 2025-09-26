@@ -1,6 +1,6 @@
 ﻿using Intellenum;
 
-namespace Soenneker.Quark.Enums.InputTypes;
+namespace Soenneker.Quark;
 
 /// <summary>
 /// Common html input types in enumeration form.

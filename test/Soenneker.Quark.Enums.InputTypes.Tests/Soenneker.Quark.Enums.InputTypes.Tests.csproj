@@ -15,7 +15,7 @@
     </ItemGroup>
 
     <ItemGroup>
-        <ProjectReference Include="..\..\src\Soenneker.Quark.Enums.InputTypes.csproj" />
+        <ProjectReference Include="..\..\src\Soenneker.Quark.Enums.InputTypes\Soenneker.Quark.Enums.InputTypes.csproj" />
     </ItemGroup>
 
     <ItemGroup>
